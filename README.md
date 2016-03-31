@@ -1,1 +1,1 @@
-# webpack-react-seed
+# React ES6 with Webpack
